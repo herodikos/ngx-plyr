@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/herodikos/ngx-plyr/compare/v1.2.0...v1.3.0) (2019-03-16)
+
+
+### Features
+
+* add crossorigin option ([1b01dc1](https://github.com/herodikos/ngx-plyr/commit/1b01dc1))
+
 # [1.2.0](https://github.com/smnbbrv/ngx-plyr/compare/v1.1.1...v1.2.0) (2018-12-21)
 
 
